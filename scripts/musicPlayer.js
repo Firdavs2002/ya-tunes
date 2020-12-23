@@ -1,0 +1,1 @@
+export const musicPlayerInit = () => console.log("Hello from music");
